@@ -45,7 +45,7 @@
     "apollo-server-express": "2.18.2",
     "babel-plugin-module-resolver": "3.2.0",
     "babel-plugin-transform-typescript-metadata": "0.2.2",
-    "class-validator": "0.12.2",
+    "class-validator": "0.13.1",
     "cors": "2.8.5",
     "cross-fetch": "3.0.6",
     "dotenv": "8.2.0",
